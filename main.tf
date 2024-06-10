@@ -1,0 +1,7 @@
+terraform {
+  
+}
+module "name" {
+    source = ""
+    
+}
